@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "",
+  "repository": "https://github.com/TechSelim/arborswapmenu.git",
   "license": "MIT",
   "scripts": {
     "start": "yarn storybook",
